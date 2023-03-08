@@ -22,3 +22,10 @@ The goal of SensoryWear is to create a user-friendly and customizable solution f
 * Battery
 * Wiring and connectors
 * Soldering iron and solder
+
+## Installation
+* Connect the sensors to the microcontroller using wiring and connectors.
+* Connect the vibration motor to the microcontroller using * wiring and connectors.
+* Upload the code to the microcontroller. The code can be found in the "Code" folder of this repository.
+* Connect the battery to the microcontroller and vibration motor.
+* Turn on the power and test the smart clothing.
