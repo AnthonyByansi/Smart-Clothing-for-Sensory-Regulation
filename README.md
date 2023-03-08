@@ -12,4 +12,13 @@ The goal of SensoryWear is to create a user-friendly and customizable solution f
 * Vibration motor
 * Battery
 * Wiring and connectors
-* Getting Started
+
+##  Getting Started
+
+### Prerequisites
+* Clothing with integrated sensors (either purchased or created)
+* Microcontroller (Arduino or Raspberry Pi)
+* Vibration motor
+* Battery
+* Wiring and connectors
+* Soldering iron and solder
