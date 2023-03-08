@@ -1,4 +1,4 @@
-SensoryWear: Smart Clothing for Sensory Regulation
+# SensoryWear: Smart Clothing for Sensory Regulation
 
 SensoryWear is a project aimed at creating smart clothing with integrated biofeedback sensors to help individuals with sensory processing difficulties or neurological disorders regulate their nervous system. The clothing uses sensors to detect skin temperature, heart rate, and breathing, and provides gentle vibrations to the user to help regulate their nervous system.
 
