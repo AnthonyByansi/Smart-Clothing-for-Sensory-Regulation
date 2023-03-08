@@ -43,6 +43,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-* OpenBCI for providing inspiration and guidance for the sensor integration.
+* [OpenBCI](https://openbci.com/). for providing inspiration and guidance for the sensor integration.
 * Adafruit for providing helpful tutorials and resources for building electronic circuits.
 * Arduino for providing an easy-to-use platform for programming microcontrollers.
