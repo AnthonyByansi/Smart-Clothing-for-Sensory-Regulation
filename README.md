@@ -33,3 +33,9 @@ The goal of SensoryWear is to create a user-friendly and customizable solution f
 # Code
 
 The code for SensoryWear is written in Arduino and can be found in the "Code" folder of this repository. The code reads data from the sensors and processes it to determine the appropriate level of feedback to provide. The feedback is then sent to the vibration motor to provide gentle vibrations to the user.
+
+## Contributing
+We welcome contributions from the community! If you have ideas for improving SensoryWear, please feel free to submit a pull request or create an issue on this repository.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
